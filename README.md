@@ -55,33 +55,6 @@ Learning Roadmap
       ↓
 Result Dashboard
 
-
-## 🚀 Installation & Setup
-
-1. Download or clone the project.
-2. Copy the project folder into:
-
-text
-C:\xampp\htdocs\
-
-
-3. Open **XAMPP Control Panel**.
-4. Start **Apache** and **MySQL**.
-5. Open phpMyAdmin:
-
-text
-http://localhost/phpmyadmin
-
-
-6. Create the required database.
-7. Import the `skillmatch` file.
-8. Configure the database connection if required.
-9. Open the project in your browser:
-
-text
-http://localhost/SkillMatch/
-
-
 ## 📚 Learning Outcomes
 
 This project helped in understanding:
